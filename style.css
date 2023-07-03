@@ -1,0 +1,23 @@
+body{
+    font-size: 35px;
+    display:grid;
+}
+
+button{
+padding:8px;
+border-radius: 5px;
+background-color:aliceblue;
+color:red
+}
+
+main{
+    /* width: 60%; */
+    border:1px solid black;
+    padding:20px;
+    background-color: lightyellow;
+}
+#todo-title{
+    border-radius: 15px;
+    padding:10px;
+    font-size: 22px;
+}
